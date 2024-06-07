@@ -33,3 +33,6 @@
 1. Confirm that all your trackmate files are called 'export.csv' and they are each located in an individual folder within each condition folder
 2. Confirm you entering the correct condition names and that these match the name of the condition folders exactly, and these are the same condition names across multiple folders
 3. If you are analyzing multiple replicates, make sure the only folders in your chosen directory are the replicate folders (aside from trackmate_results folder if have already run the script)
+
+
+Developed by Oliver Sterling-Angus https://github.com/oes6098
