@@ -35,4 +35,4 @@
 3. If you are analyzing multiple replicates, make sure the only folders in your chosen directory are the replicate folders (aside from trackmate_results folder if have already run the script)
 
 
-Developed by Oliver Sterling-Angus https://github.com/oes6098
+Developed by https://github.com/oes6098
